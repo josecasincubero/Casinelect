@@ -2,9 +2,6 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
@@ -14,8 +11,22 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability in this project, please report it responsibly:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+### How to Report
+- **Email:** security@casinelect.com
+- **Please include:**
+  - Description of the vulnerability
+  - Steps to reproduce
+  - Potential impact
+  - Any suggested fix (if available)
+
+### Response Timeline
+- **Initial response:** Within 48 hours
+- **Investigation:** Up to 2 weeks
+- **Fix release:** As soon as possible after verification
+
+### Disclosure Policy
+We kindly ask that you do not publicly disclose the vulnerability until we have released a fix. Once a patch is available, we will acknowledge your responsible disclosure.
+
+Thank you for helping keep Casinelect secure!
